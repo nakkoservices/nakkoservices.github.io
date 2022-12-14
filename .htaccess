@@ -1,0 +1,6 @@
+<Files *>
+    ForceType application/json
+</Files>
+<Files *\.*>
+    ForceType None
+</Files>
